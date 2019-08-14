@@ -10,9 +10,9 @@ Na última parte, são abordados os modelos lineares, seus pressupostos e suas i
 
 Avaliação:
 
-70% Trabalho escrito (artigo)
-20% Apresentação do trabalho
-10% Trabalhos extras (tarefas apresentadas em aula)
+70% Trabalho escrito (artigo)   
+20% Apresentação do trabalho   
+10% Trabalhos extras (tarefas apresentadas em aula)   
 
 Cronograma:
 
