@@ -1,5 +1,6 @@
 # Mestrado Ciência Política
  
+ 
 A estatística possui uma posição central em quase todos os campos de pesquisa e pode ser utilizada para explorar
 padrões de um banco de dados. Com a estatística é possível fazer generalizações sobre os impactos de diferentes
 fenômenos. Objetivo: O objetivo do curso é apresentar aos alunos as abordagens básicas de modelagem estatística
